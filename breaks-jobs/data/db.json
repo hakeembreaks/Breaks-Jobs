@@ -1,0 +1,7 @@
+{
+    "jobs": [
+        {"title": "Hakeem UX Designer", "id": 1, "details": "lorem"},
+        {"title": "Hakeem Web Developer", "id": 2, "details": "lorem"},
+        {"title": "Hakeem Vue Developer", "id": 3, "details": "lorem"}
+    ]
+}
